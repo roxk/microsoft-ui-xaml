@@ -45,16 +45,12 @@ It is expected XC, relevant APIs's implementation, and relevant tooling, would h
 ## Scope 
 
 | Capability | Priority | 
-
+|--|--|
 | This proposal will allow developers to use WinUI 3 without any `.xaml` files, in supported languages (i.e. C++ and C#) | Must | 
-
 | This proposal will allow developers to choose "WinUI 3 without XAML" template from template list | Could | 
-
-| This proposal will allow developers to use WinUI 3 code-only in build systems other than MSBuild*1 | Should | 
-
+| This proposal will allow developers to use WinUI 3 code-only in build systems other than MSBuild\*1 | Should | 
 | This proposal will allow developers to use WinUI 2 without any `.xaml` files | Won't | 
-
-| This proposal need to specifically cater to community effort such as rust's `windows` crate*2 | Won't | 
+| This proposal need to specifically cater to community effort such as rust's `windows` crate\*2 | Won't | 
 
   
 
