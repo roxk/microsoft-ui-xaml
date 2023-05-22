@@ -46,8 +46,6 @@ It is expected XC, relevant APIs's implementation, and relevant tooling, would h
 
 | Capability | Priority | 
 
-| :---------- | :------- | 
-
 | This proposal will allow developers to use WinUI 3 without any `.xaml` files, in supported languages (i.e. C++ and C#) | Must | 
 
 | This proposal will allow developers to choose "WinUI 3 without XAML" template from template list | Could | 
